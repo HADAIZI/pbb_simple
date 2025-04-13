@@ -12,7 +12,7 @@ In this update, I integrated SQLite for data persistence in the app.
 
 ### 1. **Created `DatabaseHelper`**
 
-reated the `DatabaseHelper` class to manage SQLite operations. It includes methods for CRUD (Create, Read, Update, Delete) operations on tasks.
+Created the `DatabaseHelper` class to manage SQLite operations. It includes methods for CRUD (Create, Read, Update, Delete) operations on tasks.
 
 ```dart
 class DatabaseHelper {
